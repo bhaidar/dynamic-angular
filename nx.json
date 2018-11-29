@@ -1,5 +1,5 @@
 {
-  "npmScope": "dynamic-components-and-modules",
+  "npmScope": "da",
   "implicitDependencies": {
     "angular.json": "*",
     "package.json": "*",
@@ -7,5 +7,21 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "portal": {
+      "tags": []
+    },
+    "portal-e2e": {
+      "tags": []
+    },
+    "admin-wrapper": {
+      "tags": []
+    },
+    "blocks": {
+      "tags": []
+    },
+    "core": {
+      "tags": []
+    }
+  }
 }

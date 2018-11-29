@@ -16,6 +16,15 @@
     ],
     "baseUrl": ".",
     "paths": {
+      "@da/admin/wrapper": [
+        "libs/admin/wrapper/src/index.ts"
+      ],
+      "@da/blocks": [
+        "libs/blocks/src/index.ts"
+      ],
+      "@da/core": [
+        "libs/core/src/index.ts"
+      ]
     }
   },
   "exclude": [
